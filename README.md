@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-    <b><a href="https://t.me/helios3535">Telegram: @unibypass</a></b>
+    <b><a href="https://t.me/helios3535">Telegram: @waltuhxd</a></b>
 </h1>
 
 <h5 align="center">
@@ -20,7 +20,7 @@
         Youtube!
     </a>
     •
-    <a href="https://t.me/kixx007">
+    <a href="https://t.me/waltuhxd">
         Telegram!!
     </a>
 </p>
@@ -33,7 +33,10 @@
 
 ## 📅INFOMATION
 
- ![ádsad](https://user-images.githubusercontent.com/89723323/188302848-bc9b2e65-804d-4b5f-834d-c53afdd6e6c1.png)
+ ![ádsad](https://media.discordapp.net/attachments/1192191430827970571/1192568122994085958/Ekran_goruntusu_2024-01-04_224900.png?ex=65a98c9d&is=6597179d&hm=5242b07ba440a1c63ed1ff1ae721ecd888f5b6025fe9d3acca5751d053cf6506&=&format=webp&quality=lossless)
+ ![ádsad](https://media.discordapp.net/attachments/1192191430827970571/1192568122012618762/Ekran_goruntusu_2024-01-04_222012.png?ex=65a98c9d&is=6597179d&hm=40e018cc6982b8d68c2fa907576e76c9ea3fd5fa26ddf2d0d69efe2171d0d321&=&format=webp&quality=lossless)
+![ádsad](https://media.discordapp.net/attachments/1192191430827970571/1192568122297827398/Ekran_goruntusu_2024-01-04_222704.png?ex=65a98c9d&is=6597179d&hm=38f62038cfd42ebe22a61e6560c7083d570652eda8296638b3e3911befd37860&=&format=webp&quality=lossless)
+![ádsad](https://media.discordapp.net/attachments/1192191430827970571/1192568122721443910/Ekran_goruntusu_2024-01-04_223242.png?ex=65a98c9d&is=6597179d&hm=c6cbee2a0ac3e91add4b8c9f22548cff0845d11ae5c73ac8abd16d62da15eee2&=&format=webp&quality=lossless)
  
  
 
