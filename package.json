@@ -1,0 +1,24 @@
+{
+  "name": "passphrase",
+  "version": "1.0.3",
+  "description": "Generate cryptographically secure passphrases at a set entropy.",
+  "main": "passphrase.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:evasion/passphrase.git"
+  },
+  "keywords": [
+    "crypto",
+    "passphrase",
+    "password",
+    "entropy",
+    "diceware"
+  ],
+  "author": "Thaddee Tyl <thaddee.tyl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evasion/passphrase/issues"
+  },
+  "bin": { "passphrase": "./generate.js" },
+  "homepage": "https://github.com/evasion/passphrase"
+}
