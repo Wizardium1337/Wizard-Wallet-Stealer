@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-    <b><a href="https://t.me/helios3535">Telegram: @waltuhxd</a></b>
+    <b><a href="https://t.me/waltuhxd">Telegram: @waltuhxd</a></b>
 </h1>
 
 <h5 align="center">
@@ -52,7 +52,7 @@ pip install smtplib
 pip install subprocess
 pip install glob
 ```
-![](https://github.com/kixx007/Stealer-Wallet/blob/main/assets/44.png?raw=true)
+![](https://github.com/Wizardium1337/Wizard-Wallet-Stealer/blob/main/assets/44.png?raw=true)
 
 
 # Requirements:
