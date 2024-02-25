@@ -3,7 +3,7 @@
 <p align="center">
     <img
         width="257px" height="256px" align="center" alt="Koishi"
-        src="https://github.com/kixx007/Stealer-Wallet/blob/main/CoinChange/MetaMask_Fox.svg.png?raw=true"
+        src="https://popula.com/wp-content/plugins/popula-microtipping/assets/img/metamask-icon.png"
     />
 </p>
 
